@@ -1,4 +1,32 @@
 .hello{
 	font-family: 'Leckerli One', cursive;
 	font-size: 3em;
+	color: #2c85f2;
+}
+
+#mainContent{
+	padding-right: 45px;
+}
+
+.Pcontent{
+	margin-top: 5px;
+}
+
+.skills{
+	color: #2c85f2;
+	font-size: 2em;
+	font-family: 'Leckerli One', cursive;
+}
+
+.list{
+	color: black;
+	font-size: 1.1em;
+	font-family: serif;
+}
+
+.content p{
+	color: black;
+	font-size: 1.1em;
+	font-family: serif;
+
 }
