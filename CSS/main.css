@@ -1,0 +1,77 @@
+html, body {
+    margin: auto;
+    height: 100%;
+    background: url("../Images/background.jpg") no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+#footer img{
+	height: 55px;
+	width: 55px;
+}
+
+#navigation{
+	background-color: rgba(245, 245, 245, 0.4);
+}
+#footer{
+	background-color: black;
+	position: absolute;
+	bottom: 0;
+	/*width: 100%;
+	margin: auto;*/
+	text-align: center;
+}
+
+#mainContent{
+	background-color: rgba(245, 245, 245, 0.4);
+	padding-top: auto;
+}
+
+#mainContentButtons{
+	padding-top: 40px;
+}
+#mainContentButtons img{
+	height: 200px;
+	width: 200px;
+	border-radius: 10px;
+  	padding: 10px;
+  	border: 1px solid #999;
+ 	border: inset 1px solid #333;
+ 	margin-left: 35px;
+}
+
+#header{
+	margin-left: 10%;
+}
+
+
+#navigation button{
+	height: 60px;
+	width: 60px;
+}
+
+#header h2{
+	margin-left: 10%;
+	margin-top: -2%;
+}
+
+p{
+	display: inline;
+}
+
+a{
+	text-decoration: none;
+}
+
+.name{
+	font-family: 'Leckerli One', cursive;
+}
+
+
+/*font-family: 'Leckerli One', cursive;
+font-family: 'Gochi Hand', cursive;
+font-family: 'Grand Hotel', cursive;
+font-family: 'Montserrat Alternates', sans-serif;*/
