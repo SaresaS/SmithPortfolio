@@ -16,6 +16,9 @@ html, body {
 #navigation{
 	background-color: rgba(245, 245, 245, 0.4);
 }
+.jumbotron{
+	background-color: rgba(245, 245, 245, 0.4);
+}
 #footer{
 	background-color: black;
 	position: absolute;
@@ -44,7 +47,7 @@ html, body {
 }
 
 #header{
-	margin-left: 10%;
+	margin-left: 7%;
 }
 
 
